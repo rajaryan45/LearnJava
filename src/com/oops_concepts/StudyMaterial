@@ -1,0 +1,53 @@
+Object Oriented Programming (OOPs) Concepts : 
+
+1) ABSTRACTION :-> Hiding internal details and showing only required features
+				->Abstraction in Java is a process of hiding the implementation details from 
+				 the user and showing only the functionality to the user.
+ 				->It can be achieved by using abstract classes, methods, and interfaces. 				
+For example : we are using TV remote we know which button have what feature but we dont know 
+				internal detail how its doing
+			
+			
+2)ENCAPSULATION : -> Java refers to integrating data (variables) and code (methods) 
+					into a single unit			
+For example : remote have all buttons and its functionality in one box 
+
+
+3)INHERITANCE : -> in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object.
+					 It is an important part of OOPs
+For example : features of iphone 6 was inherited from iphone 5 					 
+			basically iphone 6 is with some extra features in iphone 5 
+			So in java we can reuse old code and all new features without disturbing old codes
+
+4)POLYMORPHISM : ->Polymorphism allows us to perform a single action in different ways. 
+		    In other words, polymorphism allows you to define one interface and have multiple implementations. 
+		    The word “poly” means many and “morphs” means forms, So it means many forms.
+		    
+		    
+		
+*************************************************************************************************
+*************************************************************************************************
+*************************************************************************************************
+
+							CLASS VS OBJECT 		
+			
+A class is a blueprint for declaring and creating objects.
+An object is a class instance that allows programmers to use 
+variables and methods from inside the class.
+
+
+A class can be understood as a template or a blueprint, which contains some values, 
+known as data members, and some set of rules, known as behaviors or methods.
+The data and methods that are defined in the class are automatically taken when an 
+object is created. 			
+			
+			
+A class is a set of traits and features that define an object.
+It is a blueprint which must be implemented by each of its objects.			
+			
+			
+			
+			
+		
+		
+		    			
