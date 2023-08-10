@@ -1,0 +1,15 @@
+So In this package you are going learn :
+1) how to create class 
+2) how mulitple classes can be interdependent
+3) OOPs concept 
+
+
+								STUDENT
+					PROPERTIES				FUNCTIONS
+					1) name 				1) totalMarks()
+					2) rollNo 			    2) displayDetails()
+					3) subjects				3) getter and setters
+					4) address 
+		
+		** A student have multiple subjects so we are going to create
+		a Subject class and going to use its object in Student class
