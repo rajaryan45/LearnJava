@@ -21,7 +21,7 @@ public class StudentMain {
 			student = new Student(roll, nameString, address);
 			System.out.println("\n\nWe have entered all the details now we will se methods ");
 			student.displayDetails();
-			System.out.println("***********************************");
+			System.out.println("feature");
 			
 			
 		} catch (Exception e) {
