@@ -21,5 +21,5 @@ class Subclass-name extends Superclass-name
 The extends keyword indicates that you are making a new class that derives from an existing class.
 The meaning of "extends" is to increase the functionality.
 
-
+Please also learn types of inheritance :->   https://www.javatpoint.com/types-of-inheritance-in-java
 Let's code and explore Inheritance...........
