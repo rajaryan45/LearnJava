@@ -25,7 +25,8 @@ public class Student {
 	 *  and below we are taking arraylist of type Subjects to store multiple data
 	 * 
 	 */
-	private ArrayList<Subjects> subjects ; //We have taken an arraylist for subjects as a student may have more than one subject
+	private ArrayList<Subjects> subjects ; // This is known as HAS-A relationShip //We have taken an arraylist for subjects as a student may have more than one subject
+							    		   // Student HAS-A Subject(s) 
 	private String address;
 		
 	
